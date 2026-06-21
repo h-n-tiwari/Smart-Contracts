@@ -1,0 +1,7 @@
+# Remix generated files
+.artifacts/
+.states/
+
+
+# Build files
+cache/
