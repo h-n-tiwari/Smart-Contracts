@@ -3,5 +3,9 @@
 .states/
 
 
+# Dependencies downloaded by Remix
+.deps/
+
+
 # Build files
 cache/
